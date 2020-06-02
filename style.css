@@ -61,6 +61,7 @@ font-weight: normal;
 }
 .person__picture {
   margin-right: 32px;
+  border-radius: 30px;
 }
 
 
